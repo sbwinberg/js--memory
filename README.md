@@ -26,5 +26,5 @@ Du utgår från `<div id="game-area">` och lägger till antalet element dynamisk
 Gör ditt memory mer realistisk genom att flippa korten mha CSS Animation
 
 ## Exempelbild
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![From Memory Game - Vanilla JavaScript](https://github.com/chasacademy-sandra-larsson/js--memory-game/blob/main/memory-game.gif)
 
