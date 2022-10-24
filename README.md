@@ -6,9 +6,9 @@ Använd dig av lämpliga JavaScript-funktioner som createBoard(), clickCard(), e
 
 ## Spelregler
 
-* En spelare flippar ett kort och memorerar värdet. Samma spelare flippar ett nytt kort. Om de båda korten har lika värdet erhåller spelaren paret, eller erhåller en viss poäng. Om de båda flippade korten inte är lika, vänds korten tillbaka, och nästa spelare får försöka på nytt.
+* En spelare flippar ett kort och memorerar värdet. Samma spelare flippar ett nytt kort. Om de båda korten har lika värde erhåller spelaren paret - eller  en viss poäng. Om de båda flippade korten inte är lika, vänds korten tillbaka och nästa spelare får försöka på nytt.
 
-* Du är fri att välja spelregler för "winning-state". Om du utgår från en spelare kan exempelivs en timer (`setTimeout()`) ange sluttiden och hur många par som nåddes. Om du utgår från två spelare kan slutstadiet vara när alla kort är matchade och vem som uppnådde flest. 
+* Du är fri att välja spelregler för "winning-state". Om du utgår från en istället för två spelare kan exempelivs en timer (`setTimeout()`) ange sluttiden och vid den tidpunkten ange hur många par som nåddes. Om du utgår från två spelare kan slutstadiet vara när alla kort är matchade och vem av spelarna som uppnådde flest. 
 
 ## Generera spelyta
 
